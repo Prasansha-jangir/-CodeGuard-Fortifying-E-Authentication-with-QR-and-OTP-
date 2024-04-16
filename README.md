@@ -1,9 +1,28 @@
-# E-Authentication-using-QR-code-and-OTP
 
-Run the project by following steps:
-First of all you need to have software in your system to run it. (mySQL, php, any editor (like brackets), etc) .
-Then put all those files in a folder and run Simple registration.html file.
-This is how you can run the project.
+#"CodeGuard: Fortifying E-Authentication with QR and OTP"
+Welcome to the  "CodeGuard: Fortifying E-Authentication with QR and OTP" project! This project focuses on providing a secure authentication mechanism using both QR code scanning and One-Time Password (OTP) verification. Below are the instructions to run the project:
 
-This project is all about the authentication of the user if he/she has already registered their data in the database.
-Basically, one with the authentic credentials can log in to its user profile other wise they are discarded. Moreover, its a two way authentication system in which user have to enter OTP and also have to scan the QR code.
+Steps to Run the Project
+Prerequisites: Ensure you have the following software installed on your system:
+
+MySQL
+PHP
+Any code editor (e.g., Brackets)
+Setup:
+
+Clone or download the project repository.
+Place all the files in a folder on your system.
+Run the Project:
+
+Open the Simple_registration.html file in your web browser.
+Usage:
+
+Once the project is running, users can register their data in the database.
+To authenticate, users need to provide their registered credentials and complete a two-way authentication process:
+Enter the OTP received.
+Scan the provided QR code.
+Enjoy:
+
+Explore the functionality of the QR-OTP Authentication System!
+Project Overview
+This project focuses on enhancing user authentication by combining two-factor authentication methods: OTP verification and QR code scanning. Users with valid credentials can securely log in to their profiles, while unauthorized attempts are discarded.
